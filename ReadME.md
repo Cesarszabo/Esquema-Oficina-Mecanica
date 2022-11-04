@@ -13,5 +13,5 @@
 
 ### Esquema
 
-<img src = >
+<img src = https://github.com/Cesarszabo/Esquema-Oficina-Mecanica/blob/e1a68ca2f796c131da6b537b01d3d462088283be/ModeloOficina.png>
 
